@@ -1,0 +1,16 @@
+[
+  {
+    "email": "khalid@exsgg.com",
+    "hashedPass": "$2b$12$5VEaz7YOz15liwFf2.5txed5YZfeELpbLlzxTFhPo2sdBl1VID6K2",
+    "name": "khalid",
+    "sensitiveData": "4c2eec52d04503764589f8b253ad46c4e2ef16a0dec05b54305de579a31878719e15128033fa4dfae2bd1c4368216743ce48c759f7204b770549a7dc864fbe1b",
+    "_id": "fa26566611c148f5b8097022ef4f076e"
+  },
+  {
+    "email": "khalid@exsg.com",
+    "hashedPass": "$2b$12$.52QLMycX/31P0JNGWSCXelM08gM2uBDAhuE/Gl0eAz.lB6cLK9Zq",
+    "name": "khalid",
+    "sensitiveData": "b0a3e40fd748f9c90d91ae3834765895fa7ceaf83c342dc7bf547d567fddc75baa44c1cc77ac94f173d480b85a5514a6596ffbecdb73b14f5ae7ddc9eeb026cf",
+    "_id": "6c1aee8946ee476893526e91a92a8b44"
+  }
+]
