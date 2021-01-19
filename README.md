@@ -5,7 +5,7 @@
 ## Installation
 
 ```bash
-git@github.com:0DKhalid/protect-data.git
+git clone git@github.com:0DKhalid/protect-data.git
 ```
 
 ## Usage
